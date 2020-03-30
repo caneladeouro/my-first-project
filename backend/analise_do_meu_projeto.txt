@@ -1,0 +1,14 @@
+Entidades no Banco de dados: (entidades são representações de tabelas no banco de dados)
+    ONG
+    casos(incident)
+
+Funcionalidades:
+    Login de ONG
+    Cadastro de ONG
+    Logout de ONG
+    Cadastrar novos casos
+    Deletar casos
+    Listar os casos epecíficos de uma ONG
+    Listar todos os casos
+    Entrar em contato com a ONG
+
